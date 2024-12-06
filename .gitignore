@@ -1,0 +1,8 @@
+__pycache__/*
+temp/*
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pywz
